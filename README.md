@@ -17,7 +17,6 @@ This repository contain files and codes about linear optimization
 
 ##### Database
 <p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
-<a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="65" height="65"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="65" height="65"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="65" height="65"/> </a> 
  </p>
