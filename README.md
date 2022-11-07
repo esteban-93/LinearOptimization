@@ -1,15 +1,13 @@
-# LinearOptimization
-This repository contain files and codes about linear optimization 
-
 ### My name is Juan Esteban👋
-####  I work as Data Analyst for a colombian company 💻 
+####  Currently I work as Data Analyst for a colombian company. Passionate about ML models, statistics, economy and optimization :bar_chart: :bulb::question:💻 
 
-#### Currently I'm focused on: 
+####  I'm focused on: 
 
 - Machine learning techniques to predict power consumption.
 - Develop a project for help residential users to be more efficient in the use of energy and reduce the monthly bill cost 👉🏻 [Demand Response](https://github.com/esteban-93/DemandResponse)
 - Research and consolidate new useful knowledge to improve my skillsets  in the area of data science, optimization and the energy sector. 
-- Working with massive data and how to deal with it efficiently through technologies like: Spark, hadoop, etc
+- Working with massive data and how to deal with it efficiently through technologies like: Spark, hadoop, etc.
+- The use of optimization techniques to make a huge contribution in the energy sector. 
 ___
 
 
